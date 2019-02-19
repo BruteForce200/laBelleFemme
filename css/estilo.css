@@ -40,6 +40,31 @@
   font-weight:bolder;
 }
 
+.section-desconto{
+  background-image: url('../img/beauty-salon-img7.jpg');
+  position: relative;
+  display: block;
+  top: 820px;
+}
+
+.texto-section-grande{
+  font-size:150px;
+  font-weight:bolder;
+  color: white;
+  margin: 0; 
+  padding: 30px 0 0 0; 
+  line-height: 150px;
+}
+
+.botao-section{
+  margin-bottom: 40px;
+  margin-top: 20px;
+  border-color: #fc0fc0;
+  background-color: #fc0fc0;
+  color: white;
+  font-weight: bold;
+}
+
   /*Fim estilos kevin*/
 
 
